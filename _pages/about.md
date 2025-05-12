@@ -32,8 +32,8 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 - *2024.05*: &nbsp;🎉🎉 Releasing our new pretrained model: [OpenBA-V2](https://arxiv.org/pdf/2405.05957)!
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by ACL2024!
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP2023!
-# 📝 Publications 
 
+# 📝 Publications 
 `Arxiv 23.04` [Test-Time Adaptation with Perturbation Consistency Learning](https://arxiv.org/pdf/2304.12764)
 
 **Yi Su**, Yixin Ji, Juntao Li, Hai Ye, Min Zhang
@@ -78,6 +78,7 @@ Jikai Wang*, **Yi Su***, Juntao Li, Qingrong Xia, Zi Ye, Xinyu Duan, Zhefeng Wan
 - Soochow University Excellent Graduation Thesis for Undergraduate Students
 - Soochow University Outstanding Graduate Student
 - Champion of Huawei Shengsi Model Development Challenge Competition
+
 # 📖 Educations
 - *2019.09 - 2023.06*, Bachelor, Institute of Computer Science and Technology, Soochow University, Suzhou.
 - *2023.06 - current*, Second-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
