@@ -34,7 +34,6 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP2023!
 # 📝 Publications 
 
-
 `Arxiv 23.04` [Test-Time Adaptation with Perturbation Consistency Learning](https://arxiv.org/pdf/2304.12764)
 **Yi Su**, Yixin Ji, Juntao Li, Hai Ye, Min Zhang
 
@@ -51,6 +50,8 @@ Dan Qiao*, **Yi Su*** , Pinzheng Wang*, Jing Ye, WenJing Xie, Yuechi Zhou, Yuyan
 `TACL` [OPT-Tree: Speculative Decoding with Adaptive Draft Tree Structure](https://arxiv.org/pdf/2406.17276)
 Jikai Wang*, **Yi Su***, Juntao Li, Qingrong Xia, Zi Ye, Xinyu Duan, Zhefeng Wang, Min Zhang
 
+`Arxiv 25.03` [Expanding RL with Verifiable Rewards Across Diverse Domains](https://arxiv.org/pdf/2503.23829)
+**Yi Su**, Dian Yu, Linfeng Song, Juntao Li, Haitao Mi, Zhaopeng Tu, Min Zhang, Dong Yu
 
 
 # 🗞️ Projects
