@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "About me"
-description              : "Graduage student, Soochow University"
+description              : #"Graduage student, Soochow University"
 repository               : "yisunlp/yisunlp.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yi Su (苏仪)"
   avatar           : "images/profile.png"
-  bio              : "Soochow University"
+  bio              : "Graduage student, Soochow University"
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
