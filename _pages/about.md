@@ -34,7 +34,7 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP2023!
 # 📝 Publications 
 
-*: equal contribution
+
 `Arxiv 23.04` [Test-Time Adaptation with Perturbation Consistency Learning](https://arxiv.org/pdf/2304.12764)
 **Yi Su**, Yixin Ji, Juntao Li, Hai Ye, Min Zhang
 
