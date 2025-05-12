@@ -46,7 +46,7 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 
 `Arxiv24.05` [OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning](https://arxiv.org/pdf/2405.05957)
 
-Dan Qiao*, **Yi Su\*** , Pinzheng Wang*, Jing Ye, WenJing Xie, Yuechi Zhou, Yuyang Ding, Zecheng Tang, Jikai Wang, Yixin Ji, Yue Wang, Pei Guo, Zechen Sun, Zikang Zhang, Juntao Li, Pingfu Chao, Wenliang Chen, Guohong Fu, Guodong Zhou, Qiaoming Zhu, Min Zhang
+Dan Qiao\*, **Yi Su\*** , Pinzheng Wang\*, Jing Ye, WenJing Xie, Yuechi Zhou, Yuyang Ding, Zecheng Tang, Jikai Wang, Yixin Ji, Yue Wang, Pei Guo, Zechen Sun, Zikang Zhang, Juntao Li, Pingfu Chao, Wenliang Chen, Guohong Fu, Guodong Zhou, Qiaoming Zhu, Min Zhang
 
 
 `ACL2024` [Demonstration Augmentation for Zero-shot In-context Learning](https://aclanthology.org/2024.findings-acl.846.pdf)
@@ -56,7 +56,7 @@ Dan Qiao*, **Yi Su\*** , Pinzheng Wang*, Jing Ye, WenJing Xie, Yuechi Zhou, Yuya
 
 `TACL` [OPT-Tree: Speculative Decoding with Adaptive Draft Tree Structure](https://arxiv.org/pdf/2406.17276)
 
-Jikai Wang*, **Yi Su\***, Juntao Li, Qingrong Xia, Zi Ye, Xinyu Duan, Zhefeng Wang, Min Zhang
+Jikai Wang\*, **Yi Su\***, Juntao Li, Qingrong Xia, Zi Ye, Xinyu Duan, Zhefeng Wang, Min Zhang
 
 
 `Arxiv 25.03` [Expanding RL with Verifiable Rewards Across Diverse Domains](https://arxiv.org/pdf/2503.23829)
