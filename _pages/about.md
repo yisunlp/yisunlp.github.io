@@ -35,22 +35,32 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 # 📝 Publications 
 
 `Arxiv 23.04` [Test-Time Adaptation with Perturbation Consistency Learning](https://arxiv.org/pdf/2304.12764)
+
 **Yi Su**, Yixin Ji, Juntao Li, Hai Ye, Min Zhang
+
 
 `EMNLP2023` [Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering](https://aclanthology.org/2023.emnlp-main.803.pdf)
+
 **Yi Su**, Yixin Ji, Juntao Li, Hai Ye, Min Zhang
 
+
 `Arxiv24.05` [OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning](https://arxiv.org/pdf/2405.05957)
+
 Dan Qiao*, **Yi Su*** , Pinzheng Wang*, Jing Ye, WenJing Xie, Yuechi Zhou, Yuyang Ding, Zecheng Tang, Jikai Wang, Yixin Ji, Yue Wang, Pei Guo, Zechen Sun, Zikang Zhang, Juntao Li, Pingfu Chao, Wenliang Chen, Guohong Fu, Guodong Zhou, Qiaoming Zhu, Min Zhang
 
+
 `ACL2024` [Demonstration Augmentation for Zero-shot In-context Learning](https://aclanthology.org/2024.findings-acl.846.pdf)
+
 **Yi Su**, Yunpeng Tai, Yixin Ji, Juntao Li, Bowen Yan, Min Zhang
 
 
 `TACL` [OPT-Tree: Speculative Decoding with Adaptive Draft Tree Structure](https://arxiv.org/pdf/2406.17276)
+
 Jikai Wang*, **Yi Su***, Juntao Li, Qingrong Xia, Zi Ye, Xinyu Duan, Zhefeng Wang, Min Zhang
 
+
 `Arxiv 25.03` [Expanding RL with Verifiable Rewards Across Diverse Domains](https://arxiv.org/pdf/2503.23829)
+
 **Yi Su**, Dian Yu, Linfeng Song, Juntao Li, Haitao Mi, Zhaopeng Tu, Min Zhang, Dong Yu
 
 
