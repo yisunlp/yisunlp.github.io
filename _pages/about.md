@@ -68,7 +68,7 @@ Jikai Wang*, **Yi Su***, Juntao Li, Qingrong Xia, Zi Ye, Xinyu Duan, Zhefeng Wan
 - Pretraining of OpenBA-V2 (Soochow University)
 - Develop the SFT code of LLaMA-2 and OpenBA-V2 in Chinese AI chips Teco T100 (Tecorigin)
 - Generation Acceleration of Large Language Models (Huawei Cloud)
-- CCF-Tencent Rhino Bird Fund (CCF & Tencent)
+- CCF-Tencent Rhino Bird Fund (CCF and Tencent)
 
 
 # 🎖 Honors and Awards
