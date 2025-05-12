@@ -17,42 +17,60 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, I am Yi Su (苏仪), a second-year graduate student supervised by Assoc. Prof. [Juntao Li](https://lijuntaopku.github.io) and Prof. [Min Zhang](https://zhangminsuda.github.io/cn_homepage/News/) at Soochow University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Before this, I received my Bachelor’s degree (2019-2023, computer science) from Soochow University.
 
+At present, I am working as a research intern at [Tencent AI Lab](https://ailab.tencent.com/ailab/zh/index) under the mentorship of [Dian Yu](https://sites.google.com/site/yudiandoris/) and [Zhaopeng Tu](https://tuzhaopeng.github.io).
+
+My research interest includes Natural Language Processing (NLP), Large Language Models (LLM). I am committed to constructing high-performance and efficient deployment algorithms for LLMs, exploring more economical and convenient applications of LLMs in various fields.
+> The future belongs to those who believe in the beauty of their dreams.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.03*: &nbsp;🎉🎉 Introducing our new [paper](https://arxiv.org/pdf/2503.23829), extending RLVR to general domains!
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by TACL!
+- *2024.05*: &nbsp;🎉🎉 Releasing our new pretrained model: [OpenBA-V2](https://arxiv.org/pdf/2405.05957)!
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by ACL2024!
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP2023!
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+*: equal contribution
+`Arxiv 23.04` [Test-Time Adaptation with Perturbation Consistency Learning](https://arxiv.org/pdf/2304.12764)
+**Yi Su**, Yixin Ji, Juntao Li, Hai Ye, Min Zhang
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+`EMNLP2023` [Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering](https://aclanthology.org/2023.emnlp-main.803.pdf)
+**Yi Su**, Yixin Ji, Juntao Li, Hai Ye, Min Zhang
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+`Arxiv24.05` [OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning](https://arxiv.org/pdf/2405.05957)
+Dan Qiao*, **Yi Su*** , Pinzheng Wang*, Jing Ye, WenJing Xie, Yuechi Zhou, Yuyang Ding, Zecheng Tang, Jikai Wang, Yixin Ji, Yue Wang, Pei Guo, Zechen Sun, Zikang Zhang, Juntao Li, Pingfu Chao, Wenliang Chen, Guohong Fu, Guodong Zhou, Qiaoming Zhu, Min Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+`ACL2024` [Demonstration Augmentation for Zero-shot In-context Learning](https://aclanthology.org/2024.findings-acl.846.pdf)
+**Yi Su**, Yunpeng Tai, Yixin Ji, Juntao Li, Bowen Yan, Min Zhang
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+`TACL` [OPT-Tree: Speculative Decoding with Adaptive Draft Tree Structure](https://arxiv.org/pdf/2406.17276)
+Jikai Wang*, **Yi Su***, Juntao Li, Qingrong Xia, Zi Ye, Xinyu Duan, Zhefeng Wang, Min Zhang
+
+
+
+# 🗞️ Projects
+- Pretraining of OpenBA-V2 (Soochow University)
+- Develop the SFT code of LLaMA-2 and OpenBA-V2 in Chinese AI chips Teco T100 (Tecorigin)
+- Generation Acceleration of Large Language Models (Huawei Cloud)
+- CCF-Tencent Rhino Bird Fund (CCF & Tencent)
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- Soochow University National Scholarship for Graduate Students
+- Soochow University Graduate Outstanding Scholarship
+- Soochow University Diligence and Encouragement Scholarship
+- Soochow University Excellent Graduation Thesis for Undergraduate Students
+- Soochow University Outstanding Graduate Student
+- Champion of Huawei Shengsi Model Development Challenge Competition
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2019.09 - 2023.06*, Bachelor, Institute of Computer Science and Technology, Soochow University, Suzhou.
+- *2023.06 - current*, Second-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.08 - 2024.11*, Huawei Cloud System AI Innovation Lab, China.
+- *2024.11 - current*, Tencent AI Lab, China.

@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: https://mirrors.tuna.tsinghua.edu.cn/rubygems/
   specs:
     activesupport (6.0.3.7)
       concurrent-ruby (~> 1.0, >= 1.0.2)
@@ -279,4 +279,4 @@ DEPENDENCIES
   jekyll-sitemap
 
 BUNDLED WITH
-   2.2.19
+   2.4.22
