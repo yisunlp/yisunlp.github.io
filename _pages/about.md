@@ -27,6 +27,7 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 > The future belongs to those who believe in the beauty of their dreams.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ACL2025, see you in Vienna!
 - *2025.03*: &nbsp;🎉🎉 Introducing our new [paper](https://arxiv.org/pdf/2503.23829), extending RLVR to general domains!
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by TACL!
 - *2024.05*: &nbsp;🎉🎉 Releasing our new pretrained model: [OpenBA-V2](https://arxiv.org/pdf/2405.05957)!
@@ -63,6 +64,10 @@ Jikai Wang\*, **Yi Su\***, Juntao Li, Qingrong Xia, Zi Ye, Xinyu Duan, Zhefeng W
 
 **Yi Su**, Dian Yu, Linfeng Song, Juntao Li, Haitao Mi, Zhaopeng Tu, Min Zhang, Dong Yu
 
+
+`ACL2025` [Accurate KV Cache Quantization with Outlier Tokens Tracing](https://arxiv.org/pdf/2505.10938)
+
+**Yi Su**, Yuechi Zhou, Quantong Qiu, Juntao Li, Qingrong Xia, Ping Li, Xinyu Duan, Zhefeng Wang, Min Zhang
 
 # 🗞️ Projects
 <span class='anchor' id='projects'></span>
