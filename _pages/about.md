@@ -21,7 +21,7 @@ Hi, I am Yi Su (苏仪), a second-year graduate student supervised by Assoc. Pro
 
 Before this, I received my Bachelor’s degree (2019-2023, computer science) from Soochow University.
 
-At present, I am working as a research intern at [Tencent AI Lab](https://ailab.tencent.com/ailab/zh/index) under the mentorship of [Dian Yu](https://sites.google.com/site/yudiandoris/) and [Zhaopeng Tu](https://tuzhaopeng.github.io).
+At present, I am working as a research intern at [Tencent AI Lab](https://ailab.tencent.com/ailab/zh/index).
 
 My research interest includes Natural Language Processing (NLP), Large Language Models (LLM). I am committed to constructing high-performance and efficient deployment algorithms for LLMs, exploring more economical and convenient applications of LLMs in various fields.
 > The future belongs to those who believe in the beauty of their dreams.
