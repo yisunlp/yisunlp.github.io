@@ -21,7 +21,7 @@ Hi, I am Yi Su (苏仪), a second-year graduate student supervised by Assoc. Pro
 
 Before this, I received my Bachelor’s degree (2019-2023, computer science) from Soochow University.
 
-At present, I am working as a kuai Star intern at [Kwai](https://www.kuaishou.com/).
+At present, I am working as a Kuai Star intern at [Kuaishou](https://www.kuaishou.com/).
 
 My research interest includes Natural Language Processing (NLP), Large Language Models (LLM).
 > The future belongs to those who believe in the beauty of their dreams.
@@ -92,4 +92,4 @@ Jikai Wang\*, **Yi Su\***, Juntao Li, Qingrong Xia, Zi Ye, Xinyu Duan, Zhefeng W
 # 💻 Internships
 - *2024.08 - 2024.11*, Huawei Cloud System AI Innovation Lab, Hangzhou, China. [Research Intern]
 - *2024.11 - 2025.06*, Tencent AI Lab, Shenzhen, China. [Research Intern]
-- *2025.06 - current*, Kwai, Beijing, China. [Kuai Star Intern]
+- *2025.06 - current*, Kuaishou, Beijing, China. [Kuai Star Intern]
