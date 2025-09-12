@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Yi Su (苏仪), a second-year graduate student supervised by Assoc. Prof. [Juntao Li](https://lijuntaopku.github.io) and Prof. [Min Zhang](https://zhangminsuda.github.io/cn_homepage/News/) at Soochow University.
+Hi, I am Yi Su (苏仪), a third-year graduate student supervised by Assoc. Prof. [Juntao Li](https://lijuntaopku.github.io) and Prof. [Min Zhang](https://zhangminsuda.github.io/cn_homepage/News/) at Soochow University.
 
 Before this, I received my Bachelor’s degree (2019-2023, computer science) from Soochow University.
 
@@ -27,6 +27,8 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 > The future belongs to those who believe in the beauty of their dreams.
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Our new work in KuaiShou, [OneRec-V2 Technical Report](https://arxiv.org/pdf/2508.20900) is released!
+- *2025.07*: &nbsp;🎉🎉 Introducing our new [paper](https://arxiv.org/pdf/2507.19906) about KV cache compression!
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ACL2025, see you in Vienna!
 - *2025.03*: &nbsp;🎉🎉 Introducing our new [paper](https://arxiv.org/pdf/2503.23829), extending RLVR to general domains!
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by TACL!
@@ -68,6 +70,14 @@ Jikai Wang\*, **Yi Su\***, Juntao Li, Qingrong Xia, Zi Ye, Xinyu Duan, Zhefeng W
 `ACL2025` [Accurate KV Cache Quantization with Outlier Tokens Tracing](https://arxiv.org/pdf/2505.10938)
 
 **Yi Su**, Yuechi Zhou, Quantong Qiu, Juntao Li, Qingrong Xia, Ping Li, Xinyu Duan, Zhefeng Wang, Min Zhang
+
+`Arxiv 25.7` [CaliDrop: KV Cache Compression with Calibration](https://arxiv.org/pdf/2507.19906)
+
+**Yi Su**, Quantong Qiu, Yuechi Zhou, Juntao Li, Qingrong Xia, Ping Li, Xinyu Duan, Zhefeng Wang, Min Zhang
+
+`Arxiv 25.8` [OneRec-V2 Technical Report](https://arxiv.org/pdf/2508.20900)
+
+Guorui Zhou, Xinchen Luo, **Yi Su**, et al.
 
 # 🗞️ Projects
 <span class='anchor' id='projects'></span>
