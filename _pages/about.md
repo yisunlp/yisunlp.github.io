@@ -57,7 +57,7 @@ redirect_from:
   </div>
   <div class="timeline-body">
     <div class="timeline-title">Soochow University</div>
-    <div class="timeline-meta">M.S. in Artificial Intelligence · Institute of Computer Science and Technology · Suzhou</div>
+    <div class="timeline-meta">M.S. in Computer Science · Institute of Computer Science and Technology · Suzhou</div>
     <div class="timeline-date">2023.09 - 2026.07</div>
     <p>Supervised by Assoc. Prof. Juntao Li and Prof. Min Zhang. Researching Efficient LLMs.</p>
   </div>
