@@ -40,6 +40,7 @@ redirect_from:
 </div>
 
 # 🔥 News
+- *2026.04*: &nbsp;Release a light-weight 2-bit translation model: [Hy-MT1.5-1.8B-2bit](https://huggingface.co/AngelSlim/Hy-MT1.5-1.8B-2bit).
 - *2026.04*: &nbsp;MY previous work in KuaiShou, [Kwai Summary Attention Technical Report](https://arxiv.org/abs/2604.24432) is released.
 - *2026.04*: &nbsp;One paper is accepted by ACL2026: [General-RL](https://arxiv.org/abs/2503.23829).
 - *2026.03*: &nbsp;I join Tencent Hunyuan AI Infra Department as a Senior Researcher through Tencent Project UP (青云计划).
