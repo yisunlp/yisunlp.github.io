@@ -47,7 +47,7 @@ redirect_from:
 - *2026.03*: &nbsp;Release new works on efficiency: [LongFlow](https://arxiv.org/abs/2603.11504), [DapQ](https://arxiv.org/abs/2603.11564), and [Quantized Inference for OneRec-V2](https://arxiv.org/abs/2603.11486).
 - *2025.10*: &nbsp;Release [OneRec-Think](https://arxiv.org/abs/2510.11639), bringing explicit reasoning into generative recommendation.
 - *2025.08*: &nbsp;Our work at KuaiShou, [OneRec-V2 Technical Report](https://arxiv.org/abs/2508.20900), is released.
-- *2025.06*: &nbsp;I join Kuaishou OneRec Team as a Research Intern through KuaiShou Kwai-Star Project (快Star-X).
+- *2025.06*: &nbsp;I join Kuaishou OneRec Team as a Research Intern through KuaiShou K-Star Project (快Star-X).
 - *2025.05*: &nbsp;Two paper are accepted by ACL 2025: [OTT](https://arxiv.org/abs/2505.10938) and [OPT-Tree](https://arxiv.org/abs/2406.17276).
 
 # 📖 Education
@@ -58,7 +58,7 @@ redirect_from:
   <div class="timeline-body">
     <div class="timeline-title">Soochow University</div>
     <div class="timeline-meta">M.S. in Computer Science · Institute of Computer Science and Technology · Suzhou</div>
-    <div class="timeline-date">2023.09 - 2026.07</div>
+    <div class="timeline-date">2023.09 - 2026.06</div>
     <p>Supervised by Assoc. Prof. Juntao Li and Prof. Min Zhang. Researching Efficient LLMs.</p>
   </div>
 </div>
@@ -104,7 +104,7 @@ redirect_from:
       <div class="experience-header">
         <div>
           <div class="experience-company">Kuaishou · OneRec Team</div>
-          <div class="experience-role">Research Intern · Kuai Star (快-Star)</div>
+          <div class="experience-role">Research Intern · K-Star (快Star-X)</div>
         </div>
         <div class="experience-date">2025.06 - 2026.02 · Beijing</div>
       </div>
