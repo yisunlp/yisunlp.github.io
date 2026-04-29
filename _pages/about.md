@@ -20,7 +20,7 @@ redirect_from:
 <div class="profile-hero">
   <p>
     Hi, I am <strong>Yi Su (苏仪)</strong>. I am a <strong>Senior Researcher</strong> at
-    <a href="https://www.tencent.com/en-us/">Tencent</a>, working with the
+    <a href="https://www.tencent.com/en-us/">Tencent</a>, working at the
     <strong>Hunyuan AI Infra</strong> Department in Shanghai through
     <strong>Tencent Project UP (青云计划)</strong>.
   </p>
