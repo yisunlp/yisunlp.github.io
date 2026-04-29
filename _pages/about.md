@@ -47,7 +47,7 @@ redirect_from:
 - *2026.03*: &nbsp;Release new works on efficiency: [LongFlow](https://arxiv.org/abs/2603.11504), [DapQ](https://arxiv.org/abs/2603.11564), and [Quantized Inference for OneRec-V2](https://arxiv.org/abs/2603.11486).
 - *2025.10*: &nbsp;Release [OneRec-Think](https://arxiv.org/abs/2510.11639), bringing explicit reasoning into generative recommendation.
 - *2025.08*: &nbsp;Our work at KuaiShou, [OneRec-V2 Technical Report](https://arxiv.org/abs/2508.20900), is released.
-- *2026.06*: &nbsp;I join Kuaishou OneRec Team as a Research Intern through KuaiShou Kwai-Star Project (快Star-X).
+- *2025.06*: &nbsp;I join Kuaishou OneRec Team as a Research Intern through KuaiShou Kwai-Star Project (快Star-X).
 - *2025.05*: &nbsp;Two paper are accepted by ACL 2025: [OTT](https://arxiv.org/abs/2505.10938) and [OPT-Tree](https://arxiv.org/abs/2406.17276).
 
 # 📖 Education
