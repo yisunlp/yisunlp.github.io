@@ -40,7 +40,7 @@ redirect_from:
 </div>
 
 # 🔥 News
-- *2026.04*: &nbsp;MY previous work in KuaiShou, [Kwai Summary Attention Technical Report](https://arxiv.org/abs/2604.24432) is released.
+- *2026.04*: &nbsp;My previous work in KuaiShou, [Kwai Summary Attention Technical Report](https://arxiv.org/abs/2604.24432) is released.
 - *2026.04*: &nbsp;One paper is accepted by ACL2026: [General-RL](https://arxiv.org/abs/2503.23829).
 - *2026.03*: &nbsp;I join Tencent Hunyuan AI Infra Department as a Senior Researcher through Tencent Project UP (青云计划).
 - *2026.03*: &nbsp;Release new works on efficiency: [LongFlow](https://arxiv.org/abs/2603.11504), [DapQ](https://arxiv.org/abs/2603.11564), and [Quantized Inference for OneRec-V2](https://arxiv.org/abs/2603.11486).
@@ -77,7 +77,7 @@ redirect_from:
 <div class="experience-grid">
   <div class="experience-card highlight">
     <div class="company-logo">
-      <img src="/images/logos/tencent.svg" alt="Tencent logo">
+      <img src="/images/logos/hunyuan.svg" alt="Tencent Hunyuan logo">
     </div>
     <div class="experience-content">
       <div class="experience-header">
