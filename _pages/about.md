@@ -20,7 +20,7 @@ redirect_from:
 <div class="profile-hero">
   <p>
     Hi, I am <strong>Yi Su (苏仪)</strong>. I am a <strong>Senior Researcher</strong> at
-    <a href="https://www.tencent.com/en-us/">Tencent</a>, working with the
+    <a href="https://www.tencent.com/en-us/">Tencent</a>, working at the
     <strong>Hunyuan AI Infra</strong> Department in Shanghai through
     <strong>Tencent Project UP (青云计划)</strong>.
   </p>
@@ -78,7 +78,7 @@ redirect_from:
 <div class="experience-grid">
   <div class="experience-card highlight">
     <div class="company-logo">
-      <img src="/images/logos/tencent.svg" alt="Tencent logo">
+      <img src="/images/logos/hunyuan.svg" alt="Tencent Hunyuan logo">
     </div>
     <div class="experience-content">
       <div class="experience-header">
@@ -123,7 +123,7 @@ redirect_from:
       <div class="experience-header">
         <div>
           <div class="experience-company">Tencent AI Lab</div>
-          <div class="experience-role">Algorithm Intern</div>
+          <div class="experience-role">Research Intern</div>
         </div>
         <div class="experience-date">2024.11 - 2025.06 · Shenzhen</div>
       </div>
@@ -142,7 +142,7 @@ redirect_from:
       <div class="experience-header">
         <div>
           <div class="experience-company">Huawei Cloud · AI System Innovation Lab</div>
-          <div class="experience-role">Algorithm Intern</div>
+          <div class="experience-role">Research Intern</div>
         </div>
         <div class="experience-date">2024.08 - 2024.11 · Hangzhou</div>
       </div>
