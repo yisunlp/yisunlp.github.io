@@ -209,10 +209,10 @@ Full list is available on my [Google Scholar](https://scholar.google.com/citatio
 
 <h1>🎖 Honors and Awards</h1>
 <ul>
+  <li><em>2025</em>: &nbsp;Champion of Huawei Shengsi Model Development Challenge Competition (2025)</li>
   <li><em>2025</em>: &nbsp;Soochow University National Scholarship for Graduate Students</li>
   <li><em>2025</em>: &nbsp;Soochow University Graduate Outstanding Scholarship</li>
-  <li><em>2024</em>: &nbsp;Soochow University Diligence and Encouragement Scholarship</li>
+  <li><em>2024</em>: &nbsp;Champion of Huawei Shengsi Model Development Challenge Competition (2024)</li>
   <li><em>2023</em>: &nbsp;Soochow University Excellent Graduation Thesis for Undergraduate Students</li>
   <li><em>2023</em>: &nbsp;Soochow University Outstanding Graduate Student</li>
-  <li><em>2022</em>: &nbsp;Champion of Huawei Shengsi Model Development Challenge Competition</li>
 </ul>
