@@ -122,7 +122,7 @@ redirect_from:
     <div class="experience-content">
       <div class="experience-header">
         <div>
-          <div class="experience-company">Tencent AI Lab</div>
+          <div class="experience-company">Tencent · AI Lab</div>
           <div class="experience-role">Research Intern</div>
         </div>
         <div class="experience-date">2024.11 - 2025.06 · Shenzhen</div>
