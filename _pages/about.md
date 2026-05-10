@@ -39,6 +39,8 @@ redirect_from:
   </div>
 </div>
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 - *2026.04*: &nbsp;Release a light-weight 2-bit translation model: [Hy-MT1.5-1.8B-2bit](https://huggingface.co/tencent/Hy-MT1.5-1.8B-2bit).
 - *2026.04*: &nbsp;MY previous work in KuaiShou, [Kwai Summary Attention Technical Report](https://arxiv.org/abs/2604.24432) is released.
@@ -49,6 +51,8 @@ redirect_from:
 - *2025.08*: &nbsp;Our work at KuaiShou, [OneRec-V2 Technical Report](https://arxiv.org/abs/2508.20900), is released.
 - *2025.06*: &nbsp;I join Kuaishou OneRec Team as a Research Intern through KuaiShou K-Star Project (快Star-X).
 - *2025.05*: &nbsp;Two paper are accepted by ACL 2025: [OTT](https://arxiv.org/abs/2505.10938) and [OPT-Tree](https://arxiv.org/abs/2406.17276).
+
+<span class='anchor' id='education'></span>
 
 # 📖 Education
 <div class="timeline-card">
@@ -73,6 +77,8 @@ redirect_from:
     <div class="timeline-date">2019.09 - 2023.06</div>
   </div>
 </div>
+
+<span class='anchor' id='work-experiences'></span>
 
 # 💼 Work Experiences
 <div class="experience-grid">
@@ -154,6 +160,8 @@ redirect_from:
   </div>
 </div>
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Selected Publications
 Full list is available on my [Google Scholar](https://scholar.google.com/citations?user=YAvMAQwAAAAJ&hl=en&oi=ao).
 
@@ -206,6 +214,8 @@ Full list is available on my [Google Scholar](https://scholar.google.com/citatio
   </div>
 </div>
 
+
+<span class='anchor' id='honors-and-awards'></span>
 
 <h1>🎖 Honors and Awards</h1>
 <ul>
