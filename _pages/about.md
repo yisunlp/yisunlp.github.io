@@ -25,9 +25,6 @@ redirect_from:
     <strong>Tencent Project UP (青云计划)</strong>.
   </p>
   <p>
-    I am also completing my M.S. at Soochow University, supervised by Assoc. Prof.
-    <a href="https://lijuntaopku.github.io">Juntao Li</a> and Prof.
-    <a href="https://zhangminsuda.github.io/cn_homepage/News/">Min Zhang</a>.
     My work focuses on efficient training and deployment of Large Language Models, especially through
     quantization, KV-cache optimization, efficient attention, and other acceleration techniques.
   </p>
